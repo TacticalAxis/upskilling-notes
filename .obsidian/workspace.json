@@ -172,15 +172,21 @@
   },
   "active": "606098fff8822fe6",
   "lastOpenFiles": [
-    "Kong/kong-project/docker-compose.yml",
-    "Kong/kong-project",
+    "Kong/kong-project/zipkin/docker-compose.yml",
+    "Kong/kong-project/prometheus/docker-compose.yml",
+    "Kong/kong-project/prometheus/README.txt",
+    "Kong/kong-project/prometheus/config/prometheus.yml",
+    "Kong/kong-project/prometheus/config",
+    "Kong/kong-project/konga/docker-compose.yml",
+    "Kong/kong-project/konga/README.txt",
+    "Kong/kong-project/elastic/docker-compose.yml",
+    "Kong/kong-project/elastic/README.txt",
+    "Kong/kong-project/elastic/logstash/pipeline.conf",
+    "Kong/kong-project/elastic/logstash",
     "Kong/REST APIs Basic Concepts.md",
     "Kong/System Communication.md",
     "Kong/API Management Roles.md",
     "Kong/Software Architecture.md",
-    "Git/Useful Commands.md",
-    "Kong/Untitled",
-    "Kong",
-    "Git"
+    "Git/Useful Commands.md"
   ]
 }
