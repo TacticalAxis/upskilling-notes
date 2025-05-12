@@ -20,3 +20,16 @@ REST API Basics
 - as long as the client is using the right format, the server will give a response
 - currently use HTTP & JSON
 - Older systems can use XML
+
+REST API:
+- It is not a technology or standard
+- It is an architectural style and guideline
+- not limited to any partuclar language
+
+Principles:
+- Uniform Interface: must have a unique URI (unique resource identifier)
+- Client-Server - they must be independent of each other
+- Stateless: no session or history saved - if this is necessary, then the client request should contain all the info to service the request, including authentication and authorization details
+- Cacheable: cliuent, server, and anything else can all cache resources to improive performance
+- Layered System: Service A might connect to servier B and C before getting to D, but client cannot tell, and doesn't need to know
+- COde on demand (optional): e.g. client might call API to get ui widget-rendering code
