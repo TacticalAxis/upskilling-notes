@@ -50,3 +50,16 @@ API Management
 Can modify all traffic control logic without affecting API business logic
 Acts as an API gateway, takes client request, route the right service, passes the response
 THere there are IP changes etc, config only changes in API management, not all the services
+
+Ports:
+5432 : PostgreSQL. If you have a runningPostgreSQL server, please stop it since we will use Docker PostgreSQL.
+8000 : Kong gateway (via plain HTTP)
+8443 : Kong gateway (via HTTPS)
+8001 : Kong admin API
+8002 : Kong Manager UI
+9001, 9002, 9003, 9004 : Dummy services (alpha, beta, gamma, omega)
+
+Optional ports"
+9411 : Zipkin. We will use it on lecture about distributed tracing
+9200, 9600, 5555, 5601 : Elastic stack (Elasticsearch, Logstash, Kibana). We will use it on lecture about API analytics
+80, 443 : Kong gateway (optional, on one lesson we will change ports)
