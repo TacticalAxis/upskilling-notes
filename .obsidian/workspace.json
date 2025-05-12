@@ -172,6 +172,8 @@
   },
   "active": "606098fff8822fe6",
   "lastOpenFiles": [
+    "Kong/kong-project/docker-compose.yml",
+    "Kong/kong-project",
     "Kong/REST APIs Basic Concepts.md",
     "Kong/System Communication.md",
     "Kong/API Management Roles.md",
