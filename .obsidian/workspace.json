@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Kong/Kong Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Commands"
+              "title": "Kong Intro"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Kong/Kong Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Docker Commands"
+              "title": "Backlinks for Kong Intro"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Kong/Kong Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Docker Commands"
+              "title": "Outgoing links from Kong Intro"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Kong/Kong Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker Commands"
+              "title": "Outline of Kong Intro"
             }
           }
         ]
@@ -187,7 +187,12 @@
   },
   "active": "9ec6edd00fb9cabe",
   "lastOpenFiles": [
+    "Mutual TLS.md",
+    "Kong/Kong Intro.md",
     "Kong/API Management Roles.md",
+    "Kong/REST APIs Basic Concepts.md",
+    "Kong/Software Architecture.md",
+    "Kong/System Communication.md",
     "Docker Commands.md",
     "Kong/kong-project/zipkin/docker-compose.yml",
     "Kong/kong-project/prometheus/docker-compose.yml",
@@ -199,9 +204,6 @@
     "Kong/kong-project/elastic/docker-compose.yml",
     "Kong/kong-project/elastic/README.txt",
     "Kong/kong-project/elastic/logstash/pipeline.conf",
-    "Kong/REST APIs Basic Concepts.md",
-    "Kong/System Communication.md",
-    "Kong/Software Architecture.md",
     "Git/Useful Commands.md"
   ]
 }

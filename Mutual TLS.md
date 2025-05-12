@@ -1,0 +1,1 @@
+Mutual TLS, aka mTLS or two-way TLS is a type of authentication where both client and server verify each others' identities using digital certificates BEFORE establishing a secure connection. That way you can check whether the other is who they say they are. This ensures a much higher level of security,
