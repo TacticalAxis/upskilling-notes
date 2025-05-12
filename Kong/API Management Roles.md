@@ -49,3 +49,4 @@ API Management
 
 Can modify all traffic control logic without affecting API business logic
 Acts as an API gateway, takes client request, route the right service, passes the response
+THere there are IP changes etc, config only changes in API management, not all the services
