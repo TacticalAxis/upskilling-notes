@@ -35,3 +35,16 @@ Principles:
 - COde on demand (optional): e.g. client might call API to get ui widget-rendering code
 
 PROTOCOL://DOMAIN/RESOURCE_PATH?PATHVARIABLE=2
+
+HTTP methods:
+GET - only used to read, not update/modify resource (should be indemptoent - making multiple identical requests will return the same result)
+POST - create resource - calling more than once will return smilar response, with differeng ID if there is one
+PUT - used to updated, calling same request should return same result (should be indemptoent)
+DELETE - used to delete resource
+
+HTTP codes:
+1xx: informational
+2xx: Success
+3xx: Redirection
+4xx: Client error
+5xx: Server error
