@@ -40,3 +40,11 @@ Kong:
 - Plugins - Free & Enterprise
 
 
+API Management
+- Hit rate limit
+- Traffic control logic
+- Max request size
+- Authentication/Authorisation
+- API Keys
+
+Can modify all traffic control logic without affecting API business logic
