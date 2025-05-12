@@ -48,3 +48,7 @@ HTTP codes:
 3xx: Redirection
 4xx: Client error
 5xx: Server error
+
+REST APi Types:
+From API Management perspective, we can group API by consumer
+Private/Internal: consudmer of API and creator of API are from the same organisation
