@@ -9,3 +9,8 @@ Securing the APIs:
 - API management can help secure API
 - Given that attackers can also impersonate teh IP address, something like [[Mutual TLS]] can be used
 - Its a bad idea to not secure API
+
+http://kong-address:8001 is part of Kong Admin API (for kong admins)
+https://kong-address:8000 is part of proxy (for kong API consumers)
+
+Port 8443 is proxy for https traffic
