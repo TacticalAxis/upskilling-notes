@@ -12,3 +12,31 @@ API Management:
 - Performance reporting
 - API Gateway (single access point for consumer)
 
+Writing code for API management in the API itself isn't smart because the API should focus on the business logic itself
+APIs have request per minute or DDoS protection, or API keys, and writing all this inside each API is not a good idea because if anything changes, there would also be a lot of code changes
+
+Behaviour should be consistent among services
+All the written code for API management should contain the same logic
+We should use API management functionality to add things like API key or request limiting
+
+Examples of API management tools:
+- Kong
+- axway
+- apigee
+- MuleSoft
+- 3scale (by red hat)
+- tyk.io
+- IBM Api Connect
+- Mashery
+- WSO2 API Manager
+
+Kong:
+- Based on Nginx
+- PostgreSQL or Cassandra
+- Free & Enterprise Edition
+- User Interface
+- Easy Installation
+- Scalable & Configurable
+- Plugins - Free & Enterprise
+
+
