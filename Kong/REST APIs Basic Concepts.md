@@ -33,3 +33,5 @@ Principles:
 - Cacheable: cliuent, server, and anything else can all cache resources to improive performance
 - Layered System: Service A might connect to servier B and C before getting to D, but client cannot tell, and doesn't need to know
 - COde on demand (optional): e.g. client might call API to get ui widget-rendering code
+
+PROTOCOL://DOMAIN/RESOURCE_PATH?PATHVARIABLE=2
