@@ -43,3 +43,12 @@ WIth correct endpoint and auth, X posts data to Y endpoint
 
 
 
+Another way is through message broker
+
+Central node: message broker
+TO get data, A and Y listen from the message broker (data recievers)
+B and X are (data owners) who publish data to the message broker
+
+this is async and realtime
+
+
