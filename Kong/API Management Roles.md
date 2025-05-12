@@ -48,3 +48,4 @@ API Management
 - API Keys
 
 Can modify all traffic control logic without affecting API business logic
+Acts as an API gateway, takes client request, route the right service, passes the response
