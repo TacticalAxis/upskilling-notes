@@ -29,6 +29,8 @@ Examples of API management tools:
 - IBM Api Connect
 - Mashery
 - WSO2 API Manager
+- Krakend
+- 
 
 Kong:
 - Based on Nginx
