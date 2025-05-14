@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cool Tools.md",
+                "file": "Kong/API Management Roles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cool Tools"
+              "title": "API Management Roles"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cool Tools.md",
+                "file": "Kong/API Management Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cool Tools"
+              "title": "Backlinks for API Management Roles"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cool Tools.md",
+                "file": "Kong/API Management Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cool Tools"
+              "title": "Outgoing links from API Management Roles"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cool Tools.md",
+                "file": "Kong/API Management Roles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cool Tools"
+              "title": "Outline of API Management Roles"
             }
           }
         ]
@@ -201,8 +201,13 @@
   },
   "active": "7b949473c9afe48d",
   "lastOpenFiles": [
-    "Kong/API Management Roles.md",
+    "certs/UC-60f27acb-e35f-4462-90e1-a3a25d74e540.jpg",
+    "certs/UC-60f27acb-e35f-4462-90e1-a3a25d74e540.pdf",
     "Cool Tools.md",
+    "certs/UC-60f27acb-e35f-4462-90e1-a3a25d74e540.pdf.crdownload",
+    "certs/UC-60f27acb-e35f-4462-90e1-a3a25d74e540.jpg.crdownload",
+    "certs",
+    "Kong/API Management Roles.md",
     "Kong/Kong Intro.md",
     "Kong/Software Architecture.md",
     "Kong/REST APIs Basic Concepts.md",
@@ -215,10 +220,6 @@
     "Kong/kong-project/prometheus/config/prometheus.yml",
     "Kong/kong-project/prometheus/config",
     "Kong/kong-project/konga/docker-compose.yml",
-    "Kong/kong-project/konga/README.txt",
-    "Kong/kong-project/elastic/docker-compose.yml",
-    "Kong/kong-project/elastic/README.txt",
-    "Kong/kong-project/elastic/logstash/pipeline.conf",
     "Git/Useful Commands.md"
   ]
 }
